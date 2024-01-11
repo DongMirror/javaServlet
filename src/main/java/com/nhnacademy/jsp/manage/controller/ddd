@@ -1,0 +1,16 @@
+filter chainning
+ 마지막에 호출 안할시 : 서블릿 호출
+
+
+ frontSwervlet바꿀시
+ HttpServlet의 의존성이 사라진다 - > 구동시 tomcat이 아니어도 된다
+
+ 파라미터 넘기는법
+ 생성자, setterInjection, fieldInjection
+
+ AOP - 관심사 분리
+
+IOC - 제어 역전 (제어권을 IOC컨테이너가 가지고 있는 상태)
+
+java bean
+ -  인스턴스화 된 자바 객체

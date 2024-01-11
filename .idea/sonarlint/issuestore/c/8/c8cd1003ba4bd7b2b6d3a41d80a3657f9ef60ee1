@@ -1,0 +1,12 @@
+
+g	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ψ‚Ο1
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ψ‚Ο1
+g	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ψ‚Ο1
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(®ΚΡόÿÿÿÿ8ψ‚Ο1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ρ΅‰Άύÿÿÿÿ8™ψ‚Ο1
+\	java:S899";Do something with the "boolean" value returned by "delete".(²­ϋÿÿÿÿ8λ–Ο1
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²­ϋÿÿÿÿ8λ–Ο1
+a
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(ο­£Δ8¤ψ‚Ο1
